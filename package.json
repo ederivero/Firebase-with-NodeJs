@@ -1,0 +1,21 @@
+{
+  "name": "firebase-con-nodejs",
+  "version": "1.0.0",
+  "description": "probando firebase con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Eduardo de Rivero",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^2.5.0",
+    "express": "^4.17.1",
+    "firebase": "^6.1.1",
+    "mime": "^2.4.4",
+    "multer": "^1.4.1"
+  }
+}
